@@ -2,7 +2,6 @@
 
 A **Spring Boot + Thymeleaf + Spring Security + MySQL** web application that provides a complete Employee Management System with **user authentication** and **CRUD operations**.
 
-This project is suitable for **resumes, portfolios, and interviews**.
 
 ---
 
